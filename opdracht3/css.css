@@ -1,0 +1,25 @@
+body {
+  background-color: lightgreen;
+}
+.center {
+  margin: auto;
+  width: 70%;
+  border: 5px solid black;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 1.5em;
+  background-color: green;
+}
+.center2 {
+  margin: auto;
+  width: 70%;
+  border: 3px dashed black;
+  font-size: 1.5em;
+  padding: 10px;
+  background-color: lightgreen;
+}
+h1 {
+  background-color: darkgreen;
+  font-size: 3.5em;
+  text-align: center;
+}

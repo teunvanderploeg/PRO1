@@ -1,0 +1,39 @@
+table {
+  width: 80%;
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 3px solid black;
+  border-collapse: collapse;
+  background-color: rgb(50, 205, 50);
+}
+th,
+td {
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 1.875em;
+  font-style: italic;
+  background-color: darkgreen;
+}
+td {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+}
+.niceColor {
+  background-color: yellow;
+}
+.niceColor2 {
+  background-color: lightgreen;
+}
+.mouseY:hover {
+  background-color: green;
+}
+.mouseZ:hover {
+  background-color: magenta;
+}
